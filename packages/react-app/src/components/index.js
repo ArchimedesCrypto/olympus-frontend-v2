@@ -16,3 +16,7 @@ export { default as ThemeSwitch } from "./ThemeSwitch";
 export { default as Timeline } from "./Timeline";
 export { default as TokenBalance } from "./TokenBalance";
 export { default as Wallet } from "./Wallet";
+export { default as FeatureBox } from "./FeatureBox/FeatureBox";
+export { default as Footer } from "./Footer/Footer";
+export { default as OlympusButton } from "./OlympusButton/OlympusButton";
+export { default as OHMHeader } from "./OHMHeader/OHMHeader";

@@ -1,0 +1,23 @@
+$primary: black;
+$secondary: white;
+
+
+.olympus-button {
+
+  min-height: 44px;
+  line-height: 38px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Square', cursive;
+  color: $primary;
+  background-color: $secondary;
+  border-radius: 10px;
+  text-transform: capitalize;
+  border:2px solid $secondary;
+  transform:translateY(0px);
+  min-width:140px;
+  transition:box-shadow 200ms, transform 200ms linear;
+  &:hover{
+  }
+}
